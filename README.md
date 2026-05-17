@@ -32,16 +32,13 @@ My goal is to become a developer who writes secure, accessible, and performant c
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) *(learning)*
 
 ### Cybersecurity & Tools  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat&logo=burp-suite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) *(Basic)*
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) *(Basic)*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### Others  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
@@ -62,11 +59,11 @@ My goal is to become a developer who writes secure, accessible, and performant c
 
 ## 📜 Certifications & Learning
 
-- 🏅 **Meta Introduction to Front‑End Development** – *Coursera (Mar 2026)*  
-- 🤖 **Generative AI Mastermind Program**  
-- 🚀 **NASSCOM Generative AI**  
-- 🛠️ **GitHub Tutorial for Beginners**  
-- 🎓 **DSSYWLC‑24 Participation Certificate**
+- 🏅 **Meta Introduction to Front‑End Development** – *Coursera (Issued Mar 2026)*  
+- 🤖 **Generative AI Mastermind Program**  - *Outskill (Issued Jan 2026*) 
+- 🚀 **NASSCOM Generative AI**  *nasscom (Issued Mar 2026)*
+- 🛠️ **GitHub Tutorial for Beginners**  *Great Learning (Issued Jan 2026)*
+- 🎓 **DSSYWLC‑24 Participation Certificate** *World Health Summit Regional Meeting 2025 (Issued Apr 2025)*
 
 ---
 
