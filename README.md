@@ -16,7 +16,7 @@ I’m a **BCA student at NIMS University** specialising in Artificial Intelligen
 My goal is to become a developer who writes secure, accessible, and performant code – bridging the gap between front‑end engineering and cybersecurity.
 
 - 🔭 Currently working on: **Anomaly‑Based Intrusion Detection System** (Python + ML)  
-- 🌱 Learning: React, Application Security (OWASP Top 10), Burp Suite basics  
+- 🌱 Learning: React, Application Security , Burp Suite basics  
 - 🧠 Interested in: IT Consulting, Security‑aware Web Development, Problem‑Solving  
 - 🤝 Open to: Internships, freelance projects, and entry‑level roles in **Front‑End** or **Cybersecurity**
 
