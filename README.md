@@ -48,6 +48,7 @@ I bring security awareness (OWASP Top 10) into everything I build, and I care ab
 
 ### 🧼 Atishay — Personalized Soap E-Commerce Platform
 *Full-stack e-commerce frontend with a dynamic skin-matching quiz, live product visualizer, and admin dashboard.*
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0A66C2?style=flat&logo=githubpages&logoColor=white)](https://atishay-organicsoap.vercel.app/)
 [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat&logo=github)](https://github.com/jayantshringi/Atishay-OrganicSoap)
 `Next.js 14` `React` `Tailwind CSS` `Framer Motion` `Zustand`
 
