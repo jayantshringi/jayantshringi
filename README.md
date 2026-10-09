@@ -90,7 +90,7 @@ Offline‑ready, multi‑lingual PWA connecting farmers to weather analytics and
 
 ## 🌐 Connect With Me
 
-- 🔗 **Portfolio:** [jayantshringi-portfolio.vercel.app](https://jayantshringi-portfolio.vercel.app)
+- 🔗 **Portfolio:** [jayantshringi.site](https://www.jayantshringi.site)
 - 💼 **LinkedIn:** [linkedin.com/in/jayantshringi](https://www.linkedin.com/in/jayantshringi)
 - ✉️ **Email:** jayants3125@gmail.com
 
