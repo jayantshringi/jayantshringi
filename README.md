@@ -2,6 +2,7 @@
 ### Front‑End Developer • Security-Aware Engineer • BCA (AI) Student at NIMS University
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.jayantshringi.site)
+[![The Shringi Studio](https://img.shields.io/badge/The_Shringi_Studio-FF5722?style=for-the-badge)](https://www.theshringistudio.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayantshringi)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayants3125@gmail.com)
 
@@ -13,6 +14,7 @@
 
 I build clean, responsive interfaces and robust AI tools, treating security and performance as core components of the build, not an afterthought. 
 
+- 🎨 **Check out my creative & digital work:** [The Shringi Studio](https://www.theshringistudio.in/)
 - 🔭 **Currently building:** [InboxSentinel](https://github.com/jayantshringi/InboxSentinel) — an AI email spam/phishing classifier (98.3% accuracy) & researching architecture for a personal AI call-screening assistant.
 - 🔬 **Research & Innovation:** Developing ML Model Compression prototypes (recently approved by NIMS Patents Office) and contributing to egocentric data initiatives (Project Bumblebee) with Deccan AI Experts.
 - 🌱 **Leveling up in:** Advanced OWASP mitigation, Burp Suite, and network traffic analysis.
@@ -96,6 +98,7 @@ Offline‑ready, multi‑lingual PWA connecting farmers to weather analytics and
 
 ## 🌐 Connect With Me
 
+- 🎨 **Studio:** [theshringistudio.in](https://www.theshringistudio.in/)
 - 🔗 **Portfolio:** [jayantshringi.site](https://www.jayantshringi.site)
 - 💼 **LinkedIn:** [linkedin.com/in/jayantshringi](https://www.linkedin.com/in/jayantshringi)
 - ✉️ **Email:** jayants3125@gmail.com
