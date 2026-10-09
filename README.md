@@ -1,7 +1,7 @@
 # Hi, I'm Jayant Shringi 👋
-### Front‑End Developer • Security-Aware Engineer • BCA (AI) Student
+### Front‑End Developer • Security-Aware Engineer • BCA (AI) Student at NIMS University
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jayantshringi-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.jayantshringi.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayantshringi)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayants3125@gmail.com)
 
@@ -11,12 +11,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a **BCA (AI) student at NIMS University** who builds clean, responsive interfaces and treats security as part of the build, not an afterthought.
+I build clean, responsive interfaces and robust AI tools, treating security and performance as core components of the build, not an afterthought. 
 
-- 🔭 **Currently building:** [InboxSentinel](https://github.com/jayantshringi/InboxSentinel) — an AI email spam/phishing classifier (TF‑IDF + Logistic Regression, 98.3% accuracy on 164,970 emails)
-- 🌱 **Leveling up in:** advanced OWASP mitigation, Burp Suite, network traffic analysis
-- ⚡ **Leadership:** Organizing Team Head, IEEE Delhi Section SAC — ran event ops for 180+ participants (Feb–Nov 2025)
-- 🤝 **Open to:** internships, freelance work, and entry‑level/full‑time roles in Front‑End or security‑adjacent engineering
+- 🔭 **Currently building:** [InboxSentinel](https://github.com/jayantshringi/InboxSentinel) — an AI email spam/phishing classifier (98.3% accuracy) & researching architecture for a personal AI call-screening assistant.
+- 🔬 **Research & Innovation:** Developing ML Model Compression prototypes (recently approved by NIMS Patents Office) and contributing to egocentric data initiatives (Project Bumblebee) with Deccan AI Experts.
+- 🌱 **Leveling up in:** Advanced OWASP mitigation, Burp Suite, and network traffic analysis.
+- ⚡ **Leadership & Community:** Organizing Team Head for IEEE Delhi Section SAC (180+ participants) and spearheading the proposal for OCTA TECH EVENT at NIMS.
+- 🤝 **Open to:** Internships, freelance work, and entry‑level/full‑time roles in Front‑End, AI integration, or security‑adjacent engineering.
 
 ---
 
@@ -32,11 +33,14 @@ I'm a **BCA (AI) student at NIMS University** who builds clean, responsive inter
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
 
-**Data & Machine Learning**
+**Data, Machine Learning & Cloud**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 **Security & Tools**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -65,8 +69,8 @@ Real‑time ML‑powered IDS using an Isolation Forest model, with a live web da
 [Live Demo →](https://anomaly-based-ids.streamlit.app/) · [Repo →](https://github.com/jayantshringi/Anomaly-Based-IDS)
 
 ### 🌾 AgriFarmers – SIH 2025 Prototype
-Offline‑ready, multi‑lingual PWA connecting farmers to weather analytics and seed recommendations, built for Smart India Hackathon 2025.
-`JavaScript` `PWA` `Service Workers` `Tailwind CSS`
+Offline‑ready, multi‑lingual PWA connecting farmers to weather analytics and seed recommendations, built for Smart India Hackathon. 
+`JavaScript` `PWA` `Firebase` `Tailwind CSS`
 [Live Demo →](https://jayantshringi.github.io/AgriFarmers-SIH-2025) · [Repo →](https://github.com/jayantshringi/AgriFarmers-SIH-2025)
 
 ---
@@ -83,8 +87,10 @@ Offline‑ready, multi‑lingual PWA connecting farmers to weather analytics and
 
 ## 📊 GitHub Stats
 
-![Jayant's GitHub Stats](https://github-stats-extended.vercel.app/api?username=jayantshringi&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=jayantshringi&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=jayantshringi&show_icons=true&theme=tokyonight&hide_border=true" alt="Jayant's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jayantshringi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
