@@ -15,7 +15,7 @@
 I build clean, responsive interfaces and robust AI tools, treating security and performance as core components of the build, not an afterthought. 
 
 - 🎨 **Check out my creative & digital work:** [The Shringi Studio](https://www.theshringistudio.in/)
-- 🔭 **Currently building:** [InboxSentinel](https://github.com/jayantshringi/InboxSentinel) — an AI email spam/phishing classifier (98.3% accuracy) & researching architecture for a personal AI call-screening assistant.
+- 🔭 **Currently building:** [aria-local-agent](https://github.com/jayantshringi/aria-local-agent) — a fully private, local-first personal AI assistant Owner level: Intermediate developer Hard rule: No user data ever leaves the owner's machines. No cloud LLM APIs, no telemetry, no third-party analytics.
 - 🔬 **Research & Innovation:** Developing ML Model Compression prototypes (recently approved by NIMS Patents Office) and contributing to egocentric data initiatives (Project Bumblebee) with Deccan AI Experts.
 - 🌱 **Leveling up in:** Advanced OWASP mitigation, Burp Suite, and network traffic analysis.
 - ⚡ **Leadership & Community:** Organizing Team Head for IEEE Delhi Section SAC (180+ participants) and spearheading the proposal for OCTA TECH EVENT at NIMS.
