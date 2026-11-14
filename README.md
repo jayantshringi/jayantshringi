@@ -102,7 +102,7 @@ I'm a **BCA student at NIMS University** specialising in Artificial Intelligence
 I'm always open to new projects, learning opportunities and collaboration. For a website project, visit the studio. For internships and roles, reach out on LinkedIn or by email.
 
 - 🏢 **The Shringi Studio:** [www.theshringistudio.in](https://www.theshringistudio.in)
-- 🔗 **Portfolio:** [jayantshringi-portfolio.vercel.app](https://jayantshringi-portfolio.vercel.app)
+- 🔗 **Portfolio:** [jayantshringi.site](https://jayantshringi.site)
 - 💼 **LinkedIn:** [linkedin.com/in/jayantshringi](https://www.linkedin.com/in/jayantshringi)
 - ✉️ **Email:** [jayants3125@gmail.com](mailto:jayants3125@gmail.com)
 
